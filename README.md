@@ -1,0 +1,2 @@
+# Machine-Learning-Project---Banking-Campaign-Output-Prediction
+This project aims to predict whether a client will respond positively or negatively to a marketing campaign conducted by a bank. The campaign utilizes phone calls as its communication channel.  The dataset provided contains information related to direct marketing campaigns and encompasses various client attributes and campaign-specific features. 
