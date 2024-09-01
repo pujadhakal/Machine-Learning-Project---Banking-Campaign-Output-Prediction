@@ -1,3 +1,7 @@
 # Machine-Learning-Project---Banking-Campaign-Output-Prediction
 This project aims to predict whether a client will respond positively or negatively to a marketing campaign conducted by a bank. The campaign utilizes phone calls as its communication channel. The dataset provided contains information related to direct marketing campaigns and encompasses various client attributes and campaign-specific features. The success of the campaign hinges on the ability to identify potential subscribers.
+
 In this endeavor, I aim to leverage machine learning models to predict client responses to these marketing campaigns. By analyzing the attributes of clients and features associated with the campaigns, I intend to develop predictive models capable of accurately forecasting client behavior. To achieve this, I have explored various machine learning algorithms, including random forest and decision tree models.
+
+The given data of direct marketing campaigns is a common approach used by a banking institution to promote various banking products and services. For this project, the marketing campaign is done for the banking product “bank term deposit”. Term deposits are a type of investment where funds are deposited for a fixed period at a fixed interest rate, often offering returns compared to standard savings accounts. The data set provided contains a comprehensive set of features related 
+to both clients and campaign interactions, offering valuable insights into the characteristics and behaviors of customers.
